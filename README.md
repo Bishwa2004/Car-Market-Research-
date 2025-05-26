@@ -1,4 +1,4 @@
-# Car-Market-Research-
+# Car-Market-Research & Demand estimation
 # 🚗 Car Market Research - Demand Estimation (2005)
 
 This repository contains a comprehensive project focused on estimating car demand using data from the 2005 U.S. automobile market. The analysis is divided into multiple notebooks, where each part walks through the steps of importing, cleaning, analyzing, and modeling the data using econometric techniques.
