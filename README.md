@@ -1,4 +1,10 @@
 # Car-Market-Research & Demand estimation
+## 🛠️ Project Update – May 26, 2025
+
+This repository currently contains the codebase and analysis developed during my Spring 2025 Economics research course. Over the summer, I plan to extend this work by incorporating **up-to-date 2025 vehicle data** and writing new reports to reflect current market trends. This will serve as a self-directed summer research initiative to deepen my understanding of demand estimation and automotive economics.
+
+## 🤖 AI Assistance Disclosure
+Some aspects of this project—such as code formatting, markdown structure, and documentation—were enhanced with the support of OpenAI's ChatGPT. However, all statistical modeling, economic interpretation, and dataset integration were independently developed.
 # 🚗 Car Market Research - Demand Estimation (2005)
 
 This repository contains a comprehensive project focused on estimating car demand using data from the 2005 U.S. automobile market. The analysis is divided into multiple notebooks, where each part walks through the steps of importing, cleaning, analyzing, and modeling the data using econometric techniques.
